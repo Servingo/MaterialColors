@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
-//apply plugin: 'com.github.dcendents.android-maven'
+apply plugin: 'com.github.dcendents.android-maven'
 
-group = 'de.servingo'
+group = 'com.github.servingo'
 
 android {
     compileSdkVersion 24
