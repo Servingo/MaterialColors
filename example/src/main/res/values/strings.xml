@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MaterialColors Sample</string>
+
+    <string name="title_activity_tags">MaterialColors</string>
+
+    <string name="title_tab_dummies">Dummies</string>
+    <string name="title_tab_data">Data</string>
+
+    <string-array name="alphabet">
+        <item>Abcdef</item>
+        <item>Hijklmnop</item>
+        <item>Qrstuvwx</item>
+        <item>Yz</item>
+    </string-array>
+
+</resources>

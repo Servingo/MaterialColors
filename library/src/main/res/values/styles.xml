@@ -1,0 +1,3076 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="PrimaryColor_DEEP_PURPLE_A400">
+        <item name="colorPrimary">#651FFF</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_PURPLE_A400">
+        <item name="colorPrimaryDark">#651FFF</item>
+    </style>
+
+    <style name="AccentColor_DEEP_PURPLE_A400">
+        <item name="colorAccent">#651FFF</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_PURPLE_P200">
+        <item name="colorPrimary">#B39DDB</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_PURPLE_P200">
+        <item name="colorPrimaryDark">#B39DDB</item>
+    </style>
+
+    <style name="AccentColor_DEEP_PURPLE_P200">
+        <item name="colorAccent">#B39DDB</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_PURPLE_P300">
+        <item name="colorPrimary">#9575CD</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_PURPLE_P300">
+        <item name="colorPrimaryDark">#9575CD</item>
+    </style>
+
+    <style name="AccentColor_DEEP_PURPLE_P300">
+        <item name="colorAccent">#9575CD</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_PURPLE_A700">
+        <item name="colorPrimary">#6200EA</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_PURPLE_A700">
+        <item name="colorPrimaryDark">#6200EA</item>
+    </style>
+
+    <style name="AccentColor_DEEP_PURPLE_A700">
+        <item name="colorAccent">#6200EA</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_PURPLE_P100">
+        <item name="colorPrimary">#D1C4E9</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_PURPLE_P100">
+        <item name="colorPrimaryDark">#D1C4E9</item>
+    </style>
+
+    <style name="AccentColor_DEEP_PURPLE_P100">
+        <item name="colorAccent">#D1C4E9</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_PURPLE_P500">
+        <item name="colorPrimary">#673AB7</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_PURPLE_P500">
+        <item name="colorPrimaryDark">#673AB7</item>
+    </style>
+
+    <style name="AccentColor_DEEP_PURPLE_P500">
+        <item name="colorAccent">#673AB7</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_PURPLE_A100">
+        <item name="colorPrimary">#B388FF</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_PURPLE_A100">
+        <item name="colorPrimaryDark">#B388FF</item>
+    </style>
+
+    <style name="AccentColor_DEEP_PURPLE_A100">
+        <item name="colorAccent">#B388FF</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_PURPLE_P400">
+        <item name="colorPrimary">#7E57C2</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_PURPLE_P400">
+        <item name="colorPrimaryDark">#7E57C2</item>
+    </style>
+
+    <style name="AccentColor_DEEP_PURPLE_P400">
+        <item name="colorAccent">#7E57C2</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_PURPLE_P600">
+        <item name="colorPrimary">#5E35B1</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_PURPLE_P600">
+        <item name="colorPrimaryDark">#5E35B1</item>
+    </style>
+
+    <style name="AccentColor_DEEP_PURPLE_P600">
+        <item name="colorAccent">#5E35B1</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_PURPLE_A200">
+        <item name="colorPrimary">#7C4DFF</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_PURPLE_A200">
+        <item name="colorPrimaryDark">#7C4DFF</item>
+    </style>
+
+    <style name="AccentColor_DEEP_PURPLE_A200">
+        <item name="colorAccent">#7C4DFF</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_PURPLE_P700">
+        <item name="colorPrimary">#512DA8</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_PURPLE_P700">
+        <item name="colorPrimaryDark">#512DA8</item>
+    </style>
+
+    <style name="AccentColor_DEEP_PURPLE_P700">
+        <item name="colorAccent">#512DA8</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_PURPLE_P800">
+        <item name="colorPrimary">#4527A0</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_PURPLE_P800">
+        <item name="colorPrimaryDark">#4527A0</item>
+    </style>
+
+    <style name="AccentColor_DEEP_PURPLE_P800">
+        <item name="colorAccent">#4527A0</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_PURPLE_P900">
+        <item name="colorPrimary">#311B92</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_PURPLE_P900">
+        <item name="colorPrimaryDark">#311B92</item>
+    </style>
+
+    <style name="AccentColor_DEEP_PURPLE_P900">
+        <item name="colorAccent">#311B92</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_PURPLE_P50">
+        <item name="colorPrimary">#EDE7F6</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_PURPLE_P50">
+        <item name="colorPrimaryDark">#EDE7F6</item>
+    </style>
+
+    <style name="AccentColor_DEEP_PURPLE_P50">
+        <item name="colorAccent">#EDE7F6</item>
+    </style>
+
+    <style name="PrimaryColor_ORANGE_A400">
+        <item name="colorPrimary">#FF9100</item>
+    </style>
+
+    <style name="PrimaryDarkColor_ORANGE_A400">
+        <item name="colorPrimaryDark">#FF9100</item>
+    </style>
+
+    <style name="AccentColor_ORANGE_A400">
+        <item name="colorAccent">#FF9100</item>
+    </style>
+
+    <style name="PrimaryColor_ORANGE_P200">
+        <item name="colorPrimary">#FFCC80</item>
+    </style>
+
+    <style name="PrimaryDarkColor_ORANGE_P200">
+        <item name="colorPrimaryDark">#FFCC80</item>
+    </style>
+
+    <style name="AccentColor_ORANGE_P200">
+        <item name="colorAccent">#FFCC80</item>
+    </style>
+
+    <style name="PrimaryColor_ORANGE_P300">
+        <item name="colorPrimary">#FFB74D</item>
+    </style>
+
+    <style name="PrimaryDarkColor_ORANGE_P300">
+        <item name="colorPrimaryDark">#FFB74D</item>
+    </style>
+
+    <style name="AccentColor_ORANGE_P300">
+        <item name="colorAccent">#FFB74D</item>
+    </style>
+
+    <style name="PrimaryColor_ORANGE_A700">
+        <item name="colorPrimary">#FF6D00</item>
+    </style>
+
+    <style name="PrimaryDarkColor_ORANGE_A700">
+        <item name="colorPrimaryDark">#FF6D00</item>
+    </style>
+
+    <style name="AccentColor_ORANGE_A700">
+        <item name="colorAccent">#FF6D00</item>
+    </style>
+
+    <style name="PrimaryColor_ORANGE_P100">
+        <item name="colorPrimary">#FFE0B2</item>
+    </style>
+
+    <style name="PrimaryDarkColor_ORANGE_P100">
+        <item name="colorPrimaryDark">#FFE0B2</item>
+    </style>
+
+    <style name="AccentColor_ORANGE_P100">
+        <item name="colorAccent">#FFE0B2</item>
+    </style>
+
+    <style name="PrimaryColor_ORANGE_P500">
+        <item name="colorPrimary">#FF9800</item>
+    </style>
+
+    <style name="PrimaryDarkColor_ORANGE_P500">
+        <item name="colorPrimaryDark">#FF9800</item>
+    </style>
+
+    <style name="AccentColor_ORANGE_P500">
+        <item name="colorAccent">#FF9800</item>
+    </style>
+
+    <style name="PrimaryColor_ORANGE_A100">
+        <item name="colorPrimary">#FFD180</item>
+    </style>
+
+    <style name="PrimaryDarkColor_ORANGE_A100">
+        <item name="colorPrimaryDark">#FFD180</item>
+    </style>
+
+    <style name="AccentColor_ORANGE_A100">
+        <item name="colorAccent">#FFD180</item>
+    </style>
+
+    <style name="PrimaryColor_ORANGE_P400">
+        <item name="colorPrimary">#FFA726</item>
+    </style>
+
+    <style name="PrimaryDarkColor_ORANGE_P400">
+        <item name="colorPrimaryDark">#FFA726</item>
+    </style>
+
+    <style name="AccentColor_ORANGE_P400">
+        <item name="colorAccent">#FFA726</item>
+    </style>
+
+    <style name="PrimaryColor_ORANGE_P600">
+        <item name="colorPrimary">#FB8C00</item>
+    </style>
+
+    <style name="PrimaryDarkColor_ORANGE_P600">
+        <item name="colorPrimaryDark">#FB8C00</item>
+    </style>
+
+    <style name="AccentColor_ORANGE_P600">
+        <item name="colorAccent">#FB8C00</item>
+    </style>
+
+    <style name="PrimaryColor_ORANGE_A200">
+        <item name="colorPrimary">#FFAB40</item>
+    </style>
+
+    <style name="PrimaryDarkColor_ORANGE_A200">
+        <item name="colorPrimaryDark">#FFAB40</item>
+    </style>
+
+    <style name="AccentColor_ORANGE_A200">
+        <item name="colorAccent">#FFAB40</item>
+    </style>
+
+    <style name="PrimaryColor_ORANGE_P700">
+        <item name="colorPrimary">#F57C00</item>
+    </style>
+
+    <style name="PrimaryDarkColor_ORANGE_P700">
+        <item name="colorPrimaryDark">#F57C00</item>
+    </style>
+
+    <style name="AccentColor_ORANGE_P700">
+        <item name="colorAccent">#F57C00</item>
+    </style>
+
+    <style name="PrimaryColor_ORANGE_P800">
+        <item name="colorPrimary">#EF6C00</item>
+    </style>
+
+    <style name="PrimaryDarkColor_ORANGE_P800">
+        <item name="colorPrimaryDark">#EF6C00</item>
+    </style>
+
+    <style name="AccentColor_ORANGE_P800">
+        <item name="colorAccent">#EF6C00</item>
+    </style>
+
+    <style name="PrimaryColor_ORANGE_P900">
+        <item name="colorPrimary">#E65100</item>
+    </style>
+
+    <style name="PrimaryDarkColor_ORANGE_P900">
+        <item name="colorPrimaryDark">#E65100</item>
+    </style>
+
+    <style name="AccentColor_ORANGE_P900">
+        <item name="colorAccent">#E65100</item>
+    </style>
+
+    <style name="PrimaryColor_ORANGE_P50">
+        <item name="colorPrimary">#FFF3E0</item>
+    </style>
+
+    <style name="PrimaryDarkColor_ORANGE_P50">
+        <item name="colorPrimaryDark">#FFF3E0</item>
+    </style>
+
+    <style name="AccentColor_ORANGE_P50">
+        <item name="colorAccent">#FFF3E0</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_GREY_P400">
+        <item name="colorPrimary">#78909C</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_GREY_P400">
+        <item name="colorPrimaryDark">#78909C</item>
+    </style>
+
+    <style name="AccentColor_BLUE_GREY_P400">
+        <item name="colorAccent">#78909C</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_GREY_P600">
+        <item name="colorPrimary">#546E7A</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_GREY_P600">
+        <item name="colorPrimaryDark">#546E7A</item>
+    </style>
+
+    <style name="AccentColor_BLUE_GREY_P600">
+        <item name="colorAccent">#546E7A</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_GREY_P200">
+        <item name="colorPrimary">#B0BEC5</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_GREY_P200">
+        <item name="colorPrimaryDark">#B0BEC5</item>
+    </style>
+
+    <style name="AccentColor_BLUE_GREY_P200">
+        <item name="colorAccent">#B0BEC5</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_GREY_P300">
+        <item name="colorPrimary">#90A4AE</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_GREY_P300">
+        <item name="colorPrimaryDark">#90A4AE</item>
+    </style>
+
+    <style name="AccentColor_BLUE_GREY_P300">
+        <item name="colorAccent">#90A4AE</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_GREY_P700">
+        <item name="colorPrimary">#455A64</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_GREY_P700">
+        <item name="colorPrimaryDark">#455A64</item>
+    </style>
+
+    <style name="AccentColor_BLUE_GREY_P700">
+        <item name="colorAccent">#455A64</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_GREY_P800">
+        <item name="colorPrimary">#37474F</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_GREY_P800">
+        <item name="colorPrimaryDark">#37474F</item>
+    </style>
+
+    <style name="AccentColor_BLUE_GREY_P800">
+        <item name="colorAccent">#37474F</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_GREY_P900">
+        <item name="colorPrimary">#263238</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_GREY_P900">
+        <item name="colorPrimaryDark">#263238</item>
+    </style>
+
+    <style name="AccentColor_BLUE_GREY_P900">
+        <item name="colorAccent">#263238</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_GREY_P50">
+        <item name="colorPrimary">#ECEFF1</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_GREY_P50">
+        <item name="colorPrimaryDark">#ECEFF1</item>
+    </style>
+
+    <style name="AccentColor_BLUE_GREY_P50">
+        <item name="colorAccent">#ECEFF1</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_GREY_P100">
+        <item name="colorPrimary">#CFD8DC</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_GREY_P100">
+        <item name="colorPrimaryDark">#CFD8DC</item>
+    </style>
+
+    <style name="AccentColor_BLUE_GREY_P100">
+        <item name="colorAccent">#CFD8DC</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_GREY_P500">
+        <item name="colorPrimary">#607D8B</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_GREY_P500">
+        <item name="colorPrimaryDark">#607D8B</item>
+    </style>
+
+    <style name="AccentColor_BLUE_GREY_P500">
+        <item name="colorAccent">#607D8B</item>
+    </style>
+
+    <style name="PrimaryColor_INDIGO_A400">
+        <item name="colorPrimary">#3D5AFE</item>
+    </style>
+
+    <style name="PrimaryDarkColor_INDIGO_A400">
+        <item name="colorPrimaryDark">#3D5AFE</item>
+    </style>
+
+    <style name="AccentColor_INDIGO_A400">
+        <item name="colorAccent">#3D5AFE</item>
+    </style>
+
+    <style name="PrimaryColor_INDIGO_P200">
+        <item name="colorPrimary">#9FA8DA</item>
+    </style>
+
+    <style name="PrimaryDarkColor_INDIGO_P200">
+        <item name="colorPrimaryDark">#9FA8DA</item>
+    </style>
+
+    <style name="AccentColor_INDIGO_P200">
+        <item name="colorAccent">#9FA8DA</item>
+    </style>
+
+    <style name="PrimaryColor_INDIGO_P300">
+        <item name="colorPrimary">#7986CB</item>
+    </style>
+
+    <style name="PrimaryDarkColor_INDIGO_P300">
+        <item name="colorPrimaryDark">#7986CB</item>
+    </style>
+
+    <style name="AccentColor_INDIGO_P300">
+        <item name="colorAccent">#7986CB</item>
+    </style>
+
+    <style name="PrimaryColor_INDIGO_A700">
+        <item name="colorPrimary">#304FFE</item>
+    </style>
+
+    <style name="PrimaryDarkColor_INDIGO_A700">
+        <item name="colorPrimaryDark">#304FFE</item>
+    </style>
+
+    <style name="AccentColor_INDIGO_A700">
+        <item name="colorAccent">#304FFE</item>
+    </style>
+
+    <style name="PrimaryColor_INDIGO_P100">
+        <item name="colorPrimary">#C5CAE9</item>
+    </style>
+
+    <style name="PrimaryDarkColor_INDIGO_P100">
+        <item name="colorPrimaryDark">#C5CAE9</item>
+    </style>
+
+    <style name="AccentColor_INDIGO_P100">
+        <item name="colorAccent">#C5CAE9</item>
+    </style>
+
+    <style name="PrimaryColor_INDIGO_P500">
+        <item name="colorPrimary">#3F51B5</item>
+    </style>
+
+    <style name="PrimaryDarkColor_INDIGO_P500">
+        <item name="colorPrimaryDark">#3F51B5</item>
+    </style>
+
+    <style name="AccentColor_INDIGO_P500">
+        <item name="colorAccent">#3F51B5</item>
+    </style>
+
+    <style name="PrimaryColor_INDIGO_A100">
+        <item name="colorPrimary">#8C9EFF</item>
+    </style>
+
+    <style name="PrimaryDarkColor_INDIGO_A100">
+        <item name="colorPrimaryDark">#8C9EFF</item>
+    </style>
+
+    <style name="AccentColor_INDIGO_A100">
+        <item name="colorAccent">#8C9EFF</item>
+    </style>
+
+    <style name="PrimaryColor_INDIGO_P400">
+        <item name="colorPrimary">#5C6BC0</item>
+    </style>
+
+    <style name="PrimaryDarkColor_INDIGO_P400">
+        <item name="colorPrimaryDark">#5C6BC0</item>
+    </style>
+
+    <style name="AccentColor_INDIGO_P400">
+        <item name="colorAccent">#5C6BC0</item>
+    </style>
+
+    <style name="PrimaryColor_INDIGO_P600">
+        <item name="colorPrimary">#3949AB</item>
+    </style>
+
+    <style name="PrimaryDarkColor_INDIGO_P600">
+        <item name="colorPrimaryDark">#3949AB</item>
+    </style>
+
+    <style name="AccentColor_INDIGO_P600">
+        <item name="colorAccent">#3949AB</item>
+    </style>
+
+    <style name="PrimaryColor_INDIGO_A200">
+        <item name="colorPrimary">#536DFE</item>
+    </style>
+
+    <style name="PrimaryDarkColor_INDIGO_A200">
+        <item name="colorPrimaryDark">#536DFE</item>
+    </style>
+
+    <style name="AccentColor_INDIGO_A200">
+        <item name="colorAccent">#536DFE</item>
+    </style>
+
+    <style name="PrimaryColor_INDIGO_P700">
+        <item name="colorPrimary">#303F9F</item>
+    </style>
+
+    <style name="PrimaryDarkColor_INDIGO_P700">
+        <item name="colorPrimaryDark">#303F9F</item>
+    </style>
+
+    <style name="AccentColor_INDIGO_P700">
+        <item name="colorAccent">#303F9F</item>
+    </style>
+
+    <style name="PrimaryColor_INDIGO_P800">
+        <item name="colorPrimary">#283593</item>
+    </style>
+
+    <style name="PrimaryDarkColor_INDIGO_P800">
+        <item name="colorPrimaryDark">#283593</item>
+    </style>
+
+    <style name="AccentColor_INDIGO_P800">
+        <item name="colorAccent">#283593</item>
+    </style>
+
+    <style name="PrimaryColor_INDIGO_P900">
+        <item name="colorPrimary">#1A237E</item>
+    </style>
+
+    <style name="PrimaryDarkColor_INDIGO_P900">
+        <item name="colorPrimaryDark">#1A237E</item>
+    </style>
+
+    <style name="AccentColor_INDIGO_P900">
+        <item name="colorAccent">#1A237E</item>
+    </style>
+
+    <style name="PrimaryColor_INDIGO_P50">
+        <item name="colorPrimary">#E8EAF6</item>
+    </style>
+
+    <style name="PrimaryDarkColor_INDIGO_P50">
+        <item name="colorPrimaryDark">#E8EAF6</item>
+    </style>
+
+    <style name="AccentColor_INDIGO_P50">
+        <item name="colorAccent">#E8EAF6</item>
+    </style>
+
+    <style name="PrimaryColor_BROWN_P400">
+        <item name="colorPrimary">#8D6E63</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BROWN_P400">
+        <item name="colorPrimaryDark">#8D6E63</item>
+    </style>
+
+    <style name="AccentColor_BROWN_P400">
+        <item name="colorAccent">#8D6E63</item>
+    </style>
+
+    <style name="PrimaryColor_BROWN_P600">
+        <item name="colorPrimary">#6D4C41</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BROWN_P600">
+        <item name="colorPrimaryDark">#6D4C41</item>
+    </style>
+
+    <style name="AccentColor_BROWN_P600">
+        <item name="colorAccent">#6D4C41</item>
+    </style>
+
+    <style name="PrimaryColor_BROWN_P200">
+        <item name="colorPrimary">#BCAAA4</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BROWN_P200">
+        <item name="colorPrimaryDark">#BCAAA4</item>
+    </style>
+
+    <style name="AccentColor_BROWN_P200">
+        <item name="colorAccent">#BCAAA4</item>
+    </style>
+
+    <style name="PrimaryColor_BROWN_P300">
+        <item name="colorPrimary">#A1887F</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BROWN_P300">
+        <item name="colorPrimaryDark">#A1887F</item>
+    </style>
+
+    <style name="AccentColor_BROWN_P300">
+        <item name="colorAccent">#A1887F</item>
+    </style>
+
+    <style name="PrimaryColor_BROWN_P700">
+        <item name="colorPrimary">#5D4037</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BROWN_P700">
+        <item name="colorPrimaryDark">#5D4037</item>
+    </style>
+
+    <style name="AccentColor_BROWN_P700">
+        <item name="colorAccent">#5D4037</item>
+    </style>
+
+    <style name="PrimaryColor_BROWN_P800">
+        <item name="colorPrimary">#4E342E</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BROWN_P800">
+        <item name="colorPrimaryDark">#4E342E</item>
+    </style>
+
+    <style name="AccentColor_BROWN_P800">
+        <item name="colorAccent">#4E342E</item>
+    </style>
+
+    <style name="PrimaryColor_BROWN_P900">
+        <item name="colorPrimary">#3E2723</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BROWN_P900">
+        <item name="colorPrimaryDark">#3E2723</item>
+    </style>
+
+    <style name="AccentColor_BROWN_P900">
+        <item name="colorAccent">#3E2723</item>
+    </style>
+
+    <style name="PrimaryColor_BROWN_P50">
+        <item name="colorPrimary">#EFEBE9</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BROWN_P50">
+        <item name="colorPrimaryDark">#EFEBE9</item>
+    </style>
+
+    <style name="AccentColor_BROWN_P50">
+        <item name="colorAccent">#EFEBE9</item>
+    </style>
+
+    <style name="PrimaryColor_BROWN_P100">
+        <item name="colorPrimary">#D7CCC8</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BROWN_P100">
+        <item name="colorPrimaryDark">#D7CCC8</item>
+    </style>
+
+    <style name="AccentColor_BROWN_P100">
+        <item name="colorAccent">#D7CCC8</item>
+    </style>
+
+    <style name="PrimaryColor_BROWN_P500">
+        <item name="colorPrimary">#795548</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BROWN_P500">
+        <item name="colorPrimaryDark">#795548</item>
+    </style>
+
+    <style name="AccentColor_BROWN_P500">
+        <item name="colorAccent">#795548</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_ORANGE_A400">
+        <item name="colorPrimary">#FF3D00</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_ORANGE_A400">
+        <item name="colorPrimaryDark">#FF3D00</item>
+    </style>
+
+    <style name="AccentColor_DEEP_ORANGE_A400">
+        <item name="colorAccent">#FF3D00</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_ORANGE_P200">
+        <item name="colorPrimary">#FFAB91</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_ORANGE_P200">
+        <item name="colorPrimaryDark">#FFAB91</item>
+    </style>
+
+    <style name="AccentColor_DEEP_ORANGE_P200">
+        <item name="colorAccent">#FFAB91</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_ORANGE_P300">
+        <item name="colorPrimary">#FF8A65</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_ORANGE_P300">
+        <item name="colorPrimaryDark">#FF8A65</item>
+    </style>
+
+    <style name="AccentColor_DEEP_ORANGE_P300">
+        <item name="colorAccent">#FF8A65</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_ORANGE_A700">
+        <item name="colorPrimary">#DD2C00</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_ORANGE_A700">
+        <item name="colorPrimaryDark">#DD2C00</item>
+    </style>
+
+    <style name="AccentColor_DEEP_ORANGE_A700">
+        <item name="colorAccent">#DD2C00</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_ORANGE_P100">
+        <item name="colorPrimary">#FFCCBC</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_ORANGE_P100">
+        <item name="colorPrimaryDark">#FFCCBC</item>
+    </style>
+
+    <style name="AccentColor_DEEP_ORANGE_P100">
+        <item name="colorAccent">#FFCCBC</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_ORANGE_P500">
+        <item name="colorPrimary">#FF5722</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_ORANGE_P500">
+        <item name="colorPrimaryDark">#FF5722</item>
+    </style>
+
+    <style name="AccentColor_DEEP_ORANGE_P500">
+        <item name="colorAccent">#FF5722</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_ORANGE_A100">
+        <item name="colorPrimary">#FF9E80</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_ORANGE_A100">
+        <item name="colorPrimaryDark">#FF9E80</item>
+    </style>
+
+    <style name="AccentColor_DEEP_ORANGE_A100">
+        <item name="colorAccent">#FF9E80</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_ORANGE_P400">
+        <item name="colorPrimary">#FF7043</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_ORANGE_P400">
+        <item name="colorPrimaryDark">#FF7043</item>
+    </style>
+
+    <style name="AccentColor_DEEP_ORANGE_P400">
+        <item name="colorAccent">#FF7043</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_ORANGE_P600">
+        <item name="colorPrimary">#F4511E</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_ORANGE_P600">
+        <item name="colorPrimaryDark">#F4511E</item>
+    </style>
+
+    <style name="AccentColor_DEEP_ORANGE_P600">
+        <item name="colorAccent">#F4511E</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_ORANGE_A200">
+        <item name="colorPrimary">#FF6E40</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_ORANGE_A200">
+        <item name="colorPrimaryDark">#FF6E40</item>
+    </style>
+
+    <style name="AccentColor_DEEP_ORANGE_A200">
+        <item name="colorAccent">#FF6E40</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_ORANGE_P700">
+        <item name="colorPrimary">#E64A19</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_ORANGE_P700">
+        <item name="colorPrimaryDark">#E64A19</item>
+    </style>
+
+    <style name="AccentColor_DEEP_ORANGE_P700">
+        <item name="colorAccent">#E64A19</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_ORANGE_P800">
+        <item name="colorPrimary">#D84315</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_ORANGE_P800">
+        <item name="colorPrimaryDark">#D84315</item>
+    </style>
+
+    <style name="AccentColor_DEEP_ORANGE_P800">
+        <item name="colorAccent">#D84315</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_ORANGE_P900">
+        <item name="colorPrimary">#BF360C</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_ORANGE_P900">
+        <item name="colorPrimaryDark">#BF360C</item>
+    </style>
+
+    <style name="AccentColor_DEEP_ORANGE_P900">
+        <item name="colorAccent">#BF360C</item>
+    </style>
+
+    <style name="PrimaryColor_DEEP_ORANGE_P50">
+        <item name="colorPrimary">#FBE9E7</item>
+    </style>
+
+    <style name="PrimaryDarkColor_DEEP_ORANGE_P50">
+        <item name="colorPrimaryDark">#FBE9E7</item>
+    </style>
+
+    <style name="AccentColor_DEEP_ORANGE_P50">
+        <item name="colorAccent">#FBE9E7</item>
+    </style>
+
+    <style name="PrimaryColor_GREY_P400">
+        <item name="colorPrimary">#BDBDBD</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREY_P400">
+        <item name="colorPrimaryDark">#BDBDBD</item>
+    </style>
+
+    <style name="AccentColor_GREY_P400">
+        <item name="colorAccent">#BDBDBD</item>
+    </style>
+
+    <style name="PrimaryColor_GREY_P600">
+        <item name="colorPrimary">#757575</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREY_P600">
+        <item name="colorPrimaryDark">#757575</item>
+    </style>
+
+    <style name="AccentColor_GREY_P600">
+        <item name="colorAccent">#757575</item>
+    </style>
+
+    <style name="PrimaryColor_GREY_P200">
+        <item name="colorPrimary">#EEEEEE</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREY_P200">
+        <item name="colorPrimaryDark">#EEEEEE</item>
+    </style>
+
+    <style name="AccentColor_GREY_P200">
+        <item name="colorAccent">#EEEEEE</item>
+    </style>
+
+    <style name="PrimaryColor_GREY_P300">
+        <item name="colorPrimary">#E0E0E0</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREY_P300">
+        <item name="colorPrimaryDark">#E0E0E0</item>
+    </style>
+
+    <style name="AccentColor_GREY_P300">
+        <item name="colorAccent">#E0E0E0</item>
+    </style>
+
+    <style name="PrimaryColor_GREY_P700">
+        <item name="colorPrimary">#616161</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREY_P700">
+        <item name="colorPrimaryDark">#616161</item>
+    </style>
+
+    <style name="AccentColor_GREY_P700">
+        <item name="colorAccent">#616161</item>
+    </style>
+
+    <style name="PrimaryColor_GREY_P800">
+        <item name="colorPrimary">#424242</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREY_P800">
+        <item name="colorPrimaryDark">#424242</item>
+    </style>
+
+    <style name="AccentColor_GREY_P800">
+        <item name="colorAccent">#424242</item>
+    </style>
+
+    <style name="PrimaryColor_GREY_P900">
+        <item name="colorPrimary">#212121</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREY_P900">
+        <item name="colorPrimaryDark">#212121</item>
+    </style>
+
+    <style name="AccentColor_GREY_P900">
+        <item name="colorAccent">#212121</item>
+    </style>
+
+    <style name="PrimaryColor_GREY_P50">
+        <item name="colorPrimary">#FAFAFA</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREY_P50">
+        <item name="colorPrimaryDark">#FAFAFA</item>
+    </style>
+
+    <style name="AccentColor_GREY_P50">
+        <item name="colorAccent">#FAFAFA</item>
+    </style>
+
+    <style name="PrimaryColor_GREY_P100">
+        <item name="colorPrimary">#F5F5F5</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREY_P100">
+        <item name="colorPrimaryDark">#F5F5F5</item>
+    </style>
+
+    <style name="AccentColor_GREY_P100">
+        <item name="colorAccent">#F5F5F5</item>
+    </style>
+
+    <style name="PrimaryColor_GREY_P500">
+        <item name="colorPrimary">#9E9E9E</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREY_P500">
+        <item name="colorPrimaryDark">#9E9E9E</item>
+    </style>
+
+    <style name="AccentColor_GREY_P500">
+        <item name="colorAccent">#9E9E9E</item>
+    </style>
+
+    <style name="PrimaryColor_PINK_A400">
+        <item name="colorPrimary">#F50057</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PINK_A400">
+        <item name="colorPrimaryDark">#F50057</item>
+    </style>
+
+    <style name="AccentColor_PINK_A400">
+        <item name="colorAccent">#F50057</item>
+    </style>
+
+    <style name="PrimaryColor_PINK_P200">
+        <item name="colorPrimary">#F48FB1</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PINK_P200">
+        <item name="colorPrimaryDark">#F48FB1</item>
+    </style>
+
+    <style name="AccentColor_PINK_P200">
+        <item name="colorAccent">#F48FB1</item>
+    </style>
+
+    <style name="PrimaryColor_PINK_P300">
+        <item name="colorPrimary">#F06292</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PINK_P300">
+        <item name="colorPrimaryDark">#F06292</item>
+    </style>
+
+    <style name="AccentColor_PINK_P300">
+        <item name="colorAccent">#F06292</item>
+    </style>
+
+    <style name="PrimaryColor_PINK_A700">
+        <item name="colorPrimary">#C51162</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PINK_A700">
+        <item name="colorPrimaryDark">#C51162</item>
+    </style>
+
+    <style name="AccentColor_PINK_A700">
+        <item name="colorAccent">#C51162</item>
+    </style>
+
+    <style name="PrimaryColor_PINK_P100">
+        <item name="colorPrimary">#F8BBD0</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PINK_P100">
+        <item name="colorPrimaryDark">#F8BBD0</item>
+    </style>
+
+    <style name="AccentColor_PINK_P100">
+        <item name="colorAccent">#F8BBD0</item>
+    </style>
+
+    <style name="PrimaryColor_PINK_P500">
+        <item name="colorPrimary">#E91E63</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PINK_P500">
+        <item name="colorPrimaryDark">#E91E63</item>
+    </style>
+
+    <style name="AccentColor_PINK_P500">
+        <item name="colorAccent">#E91E63</item>
+    </style>
+
+    <style name="PrimaryColor_PINK_A100">
+        <item name="colorPrimary">#FF80AB</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PINK_A100">
+        <item name="colorPrimaryDark">#FF80AB</item>
+    </style>
+
+    <style name="AccentColor_PINK_A100">
+        <item name="colorAccent">#FF80AB</item>
+    </style>
+
+    <style name="PrimaryColor_PINK_P400">
+        <item name="colorPrimary">#EC407A</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PINK_P400">
+        <item name="colorPrimaryDark">#EC407A</item>
+    </style>
+
+    <style name="AccentColor_PINK_P400">
+        <item name="colorAccent">#EC407A</item>
+    </style>
+
+    <style name="PrimaryColor_PINK_P600">
+        <item name="colorPrimary">#D81B60</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PINK_P600">
+        <item name="colorPrimaryDark">#D81B60</item>
+    </style>
+
+    <style name="AccentColor_PINK_P600">
+        <item name="colorAccent">#D81B60</item>
+    </style>
+
+    <style name="PrimaryColor_PINK_A200">
+        <item name="colorPrimary">#FF4081</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PINK_A200">
+        <item name="colorPrimaryDark">#FF4081</item>
+    </style>
+
+    <style name="AccentColor_PINK_A200">
+        <item name="colorAccent">#FF4081</item>
+    </style>
+
+    <style name="PrimaryColor_PINK_P700">
+        <item name="colorPrimary">#C2185B</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PINK_P700">
+        <item name="colorPrimaryDark">#C2185B</item>
+    </style>
+
+    <style name="AccentColor_PINK_P700">
+        <item name="colorAccent">#C2185B</item>
+    </style>
+
+    <style name="PrimaryColor_PINK_P800">
+        <item name="colorPrimary">#AD1457</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PINK_P800">
+        <item name="colorPrimaryDark">#AD1457</item>
+    </style>
+
+    <style name="AccentColor_PINK_P800">
+        <item name="colorAccent">#AD1457</item>
+    </style>
+
+    <style name="PrimaryColor_PINK_P900">
+        <item name="colorPrimary">#880E4F</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PINK_P900">
+        <item name="colorPrimaryDark">#880E4F</item>
+    </style>
+
+    <style name="AccentColor_PINK_P900">
+        <item name="colorAccent">#880E4F</item>
+    </style>
+
+    <style name="PrimaryColor_PINK_P50">
+        <item name="colorPrimary">#FCE4EC</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PINK_P50">
+        <item name="colorPrimaryDark">#FCE4EC</item>
+    </style>
+
+    <style name="AccentColor_PINK_P50">
+        <item name="colorAccent">#FCE4EC</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_GREEN_A400">
+        <item name="colorPrimary">#76FF03</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_GREEN_A400">
+        <item name="colorPrimaryDark">#76FF03</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_GREEN_A400">
+        <item name="colorAccent">#76FF03</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_GREEN_P200">
+        <item name="colorPrimary">#C5E1A5</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_GREEN_P200">
+        <item name="colorPrimaryDark">#C5E1A5</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_GREEN_P200">
+        <item name="colorAccent">#C5E1A5</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_GREEN_P300">
+        <item name="colorPrimary">#AED581</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_GREEN_P300">
+        <item name="colorPrimaryDark">#AED581</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_GREEN_P300">
+        <item name="colorAccent">#AED581</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_GREEN_A700">
+        <item name="colorPrimary">#64DD17</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_GREEN_A700">
+        <item name="colorPrimaryDark">#64DD17</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_GREEN_A700">
+        <item name="colorAccent">#64DD17</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_GREEN_P100">
+        <item name="colorPrimary">#DCEDC8</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_GREEN_P100">
+        <item name="colorPrimaryDark">#DCEDC8</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_GREEN_P100">
+        <item name="colorAccent">#DCEDC8</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_GREEN_P500">
+        <item name="colorPrimary">#8BC34A</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_GREEN_P500">
+        <item name="colorPrimaryDark">#8BC34A</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_GREEN_P500">
+        <item name="colorAccent">#8BC34A</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_GREEN_A100">
+        <item name="colorPrimary">#CCFF90</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_GREEN_A100">
+        <item name="colorPrimaryDark">#CCFF90</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_GREEN_A100">
+        <item name="colorAccent">#CCFF90</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_GREEN_P400">
+        <item name="colorPrimary">#9CCC65</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_GREEN_P400">
+        <item name="colorPrimaryDark">#9CCC65</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_GREEN_P400">
+        <item name="colorAccent">#9CCC65</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_GREEN_P600">
+        <item name="colorPrimary">#7CB342</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_GREEN_P600">
+        <item name="colorPrimaryDark">#7CB342</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_GREEN_P600">
+        <item name="colorAccent">#7CB342</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_GREEN_A200">
+        <item name="colorPrimary">#B2FF59</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_GREEN_A200">
+        <item name="colorPrimaryDark">#B2FF59</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_GREEN_A200">
+        <item name="colorAccent">#B2FF59</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_GREEN_P700">
+        <item name="colorPrimary">#689F38</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_GREEN_P700">
+        <item name="colorPrimaryDark">#689F38</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_GREEN_P700">
+        <item name="colorAccent">#689F38</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_GREEN_P800">
+        <item name="colorPrimary">#558B2F</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_GREEN_P800">
+        <item name="colorPrimaryDark">#558B2F</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_GREEN_P800">
+        <item name="colorAccent">#558B2F</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_GREEN_P900">
+        <item name="colorPrimary">#33691E</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_GREEN_P900">
+        <item name="colorPrimaryDark">#33691E</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_GREEN_P900">
+        <item name="colorAccent">#33691E</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_GREEN_P50">
+        <item name="colorPrimary">#F1F8E9</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_GREEN_P50">
+        <item name="colorPrimaryDark">#F1F8E9</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_GREEN_P50">
+        <item name="colorAccent">#F1F8E9</item>
+    </style>
+
+    <style name="PrimaryColor_CYAN_A400">
+        <item name="colorPrimary">#00E5FF</item>
+    </style>
+
+    <style name="PrimaryDarkColor_CYAN_A400">
+        <item name="colorPrimaryDark">#00E5FF</item>
+    </style>
+
+    <style name="AccentColor_CYAN_A400">
+        <item name="colorAccent">#00E5FF</item>
+    </style>
+
+    <style name="PrimaryColor_CYAN_P200">
+        <item name="colorPrimary">#80DEEA</item>
+    </style>
+
+    <style name="PrimaryDarkColor_CYAN_P200">
+        <item name="colorPrimaryDark">#80DEEA</item>
+    </style>
+
+    <style name="AccentColor_CYAN_P200">
+        <item name="colorAccent">#80DEEA</item>
+    </style>
+
+    <style name="PrimaryColor_CYAN_P300">
+        <item name="colorPrimary">#4DD0E1</item>
+    </style>
+
+    <style name="PrimaryDarkColor_CYAN_P300">
+        <item name="colorPrimaryDark">#4DD0E1</item>
+    </style>
+
+    <style name="AccentColor_CYAN_P300">
+        <item name="colorAccent">#4DD0E1</item>
+    </style>
+
+    <style name="PrimaryColor_CYAN_A700">
+        <item name="colorPrimary">#00B8D4</item>
+    </style>
+
+    <style name="PrimaryDarkColor_CYAN_A700">
+        <item name="colorPrimaryDark">#00B8D4</item>
+    </style>
+
+    <style name="AccentColor_CYAN_A700">
+        <item name="colorAccent">#00B8D4</item>
+    </style>
+
+    <style name="PrimaryColor_CYAN_P100">
+        <item name="colorPrimary">#B2EBF2</item>
+    </style>
+
+    <style name="PrimaryDarkColor_CYAN_P100">
+        <item name="colorPrimaryDark">#B2EBF2</item>
+    </style>
+
+    <style name="AccentColor_CYAN_P100">
+        <item name="colorAccent">#B2EBF2</item>
+    </style>
+
+    <style name="PrimaryColor_CYAN_P500">
+        <item name="colorPrimary">#00BCD4</item>
+    </style>
+
+    <style name="PrimaryDarkColor_CYAN_P500">
+        <item name="colorPrimaryDark">#00BCD4</item>
+    </style>
+
+    <style name="AccentColor_CYAN_P500">
+        <item name="colorAccent">#00BCD4</item>
+    </style>
+
+    <style name="PrimaryColor_CYAN_A100">
+        <item name="colorPrimary">#84FFFF</item>
+    </style>
+
+    <style name="PrimaryDarkColor_CYAN_A100">
+        <item name="colorPrimaryDark">#84FFFF</item>
+    </style>
+
+    <style name="AccentColor_CYAN_A100">
+        <item name="colorAccent">#84FFFF</item>
+    </style>
+
+    <style name="PrimaryColor_CYAN_P400">
+        <item name="colorPrimary">#26C6DA</item>
+    </style>
+
+    <style name="PrimaryDarkColor_CYAN_P400">
+        <item name="colorPrimaryDark">#26C6DA</item>
+    </style>
+
+    <style name="AccentColor_CYAN_P400">
+        <item name="colorAccent">#26C6DA</item>
+    </style>
+
+    <style name="PrimaryColor_CYAN_P600">
+        <item name="colorPrimary">#00ACC1</item>
+    </style>
+
+    <style name="PrimaryDarkColor_CYAN_P600">
+        <item name="colorPrimaryDark">#00ACC1</item>
+    </style>
+
+    <style name="AccentColor_CYAN_P600">
+        <item name="colorAccent">#00ACC1</item>
+    </style>
+
+    <style name="PrimaryColor_CYAN_A200">
+        <item name="colorPrimary">#18FFFF</item>
+    </style>
+
+    <style name="PrimaryDarkColor_CYAN_A200">
+        <item name="colorPrimaryDark">#18FFFF</item>
+    </style>
+
+    <style name="AccentColor_CYAN_A200">
+        <item name="colorAccent">#18FFFF</item>
+    </style>
+
+    <style name="PrimaryColor_CYAN_P700">
+        <item name="colorPrimary">#0097A7</item>
+    </style>
+
+    <style name="PrimaryDarkColor_CYAN_P700">
+        <item name="colorPrimaryDark">#0097A7</item>
+    </style>
+
+    <style name="AccentColor_CYAN_P700">
+        <item name="colorAccent">#0097A7</item>
+    </style>
+
+    <style name="PrimaryColor_CYAN_P800">
+        <item name="colorPrimary">#00838F</item>
+    </style>
+
+    <style name="PrimaryDarkColor_CYAN_P800">
+        <item name="colorPrimaryDark">#00838F</item>
+    </style>
+
+    <style name="AccentColor_CYAN_P800">
+        <item name="colorAccent">#00838F</item>
+    </style>
+
+    <style name="PrimaryColor_CYAN_P900">
+        <item name="colorPrimary">#006064</item>
+    </style>
+
+    <style name="PrimaryDarkColor_CYAN_P900">
+        <item name="colorPrimaryDark">#006064</item>
+    </style>
+
+    <style name="AccentColor_CYAN_P900">
+        <item name="colorAccent">#006064</item>
+    </style>
+
+    <style name="PrimaryColor_CYAN_P50">
+        <item name="colorPrimary">#E0F7FA</item>
+    </style>
+
+    <style name="PrimaryDarkColor_CYAN_P50">
+        <item name="colorPrimaryDark">#E0F7FA</item>
+    </style>
+
+    <style name="AccentColor_CYAN_P50">
+        <item name="colorAccent">#E0F7FA</item>
+    </style>
+
+    <style name="PrimaryColor_PURPLE_A400">
+        <item name="colorPrimary">#D500F9</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PURPLE_A400">
+        <item name="colorPrimaryDark">#D500F9</item>
+    </style>
+
+    <style name="AccentColor_PURPLE_A400">
+        <item name="colorAccent">#D500F9</item>
+    </style>
+
+    <style name="PrimaryColor_PURPLE_P200">
+        <item name="colorPrimary">#CE93D8</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PURPLE_P200">
+        <item name="colorPrimaryDark">#CE93D8</item>
+    </style>
+
+    <style name="AccentColor_PURPLE_P200">
+        <item name="colorAccent">#CE93D8</item>
+    </style>
+
+    <style name="PrimaryColor_PURPLE_P300">
+        <item name="colorPrimary">#BA68C8</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PURPLE_P300">
+        <item name="colorPrimaryDark">#BA68C8</item>
+    </style>
+
+    <style name="AccentColor_PURPLE_P300">
+        <item name="colorAccent">#BA68C8</item>
+    </style>
+
+    <style name="PrimaryColor_PURPLE_A700">
+        <item name="colorPrimary">#AA00FF</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PURPLE_A700">
+        <item name="colorPrimaryDark">#AA00FF</item>
+    </style>
+
+    <style name="AccentColor_PURPLE_A700">
+        <item name="colorAccent">#AA00FF</item>
+    </style>
+
+    <style name="PrimaryColor_PURPLE_P100">
+        <item name="colorPrimary">#E1BEE7</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PURPLE_P100">
+        <item name="colorPrimaryDark">#E1BEE7</item>
+    </style>
+
+    <style name="AccentColor_PURPLE_P100">
+        <item name="colorAccent">#E1BEE7</item>
+    </style>
+
+    <style name="PrimaryColor_PURPLE_P500">
+        <item name="colorPrimary">#9C27B0</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PURPLE_P500">
+        <item name="colorPrimaryDark">#9C27B0</item>
+    </style>
+
+    <style name="AccentColor_PURPLE_P500">
+        <item name="colorAccent">#9C27B0</item>
+    </style>
+
+    <style name="PrimaryColor_PURPLE_A100">
+        <item name="colorPrimary">#EA80FC</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PURPLE_A100">
+        <item name="colorPrimaryDark">#EA80FC</item>
+    </style>
+
+    <style name="AccentColor_PURPLE_A100">
+        <item name="colorAccent">#EA80FC</item>
+    </style>
+
+    <style name="PrimaryColor_PURPLE_P400">
+        <item name="colorPrimary">#AB47BC</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PURPLE_P400">
+        <item name="colorPrimaryDark">#AB47BC</item>
+    </style>
+
+    <style name="AccentColor_PURPLE_P400">
+        <item name="colorAccent">#AB47BC</item>
+    </style>
+
+    <style name="PrimaryColor_PURPLE_P600">
+        <item name="colorPrimary">#8E24AA</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PURPLE_P600">
+        <item name="colorPrimaryDark">#8E24AA</item>
+    </style>
+
+    <style name="AccentColor_PURPLE_P600">
+        <item name="colorAccent">#8E24AA</item>
+    </style>
+
+    <style name="PrimaryColor_PURPLE_A200">
+        <item name="colorPrimary">#E040FB</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PURPLE_A200">
+        <item name="colorPrimaryDark">#E040FB</item>
+    </style>
+
+    <style name="AccentColor_PURPLE_A200">
+        <item name="colorAccent">#E040FB</item>
+    </style>
+
+    <style name="PrimaryColor_PURPLE_P700">
+        <item name="colorPrimary">#7B1FA2</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PURPLE_P700">
+        <item name="colorPrimaryDark">#7B1FA2</item>
+    </style>
+
+    <style name="AccentColor_PURPLE_P700">
+        <item name="colorAccent">#7B1FA2</item>
+    </style>
+
+    <style name="PrimaryColor_PURPLE_P800">
+        <item name="colorPrimary">#6A1B9A</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PURPLE_P800">
+        <item name="colorPrimaryDark">#6A1B9A</item>
+    </style>
+
+    <style name="AccentColor_PURPLE_P800">
+        <item name="colorAccent">#6A1B9A</item>
+    </style>
+
+    <style name="PrimaryColor_PURPLE_P900">
+        <item name="colorPrimary">#4A148C</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PURPLE_P900">
+        <item name="colorPrimaryDark">#4A148C</item>
+    </style>
+
+    <style name="AccentColor_PURPLE_P900">
+        <item name="colorAccent">#4A148C</item>
+    </style>
+
+    <style name="PrimaryColor_PURPLE_P50">
+        <item name="colorPrimary">#F3E5F5</item>
+    </style>
+
+    <style name="PrimaryDarkColor_PURPLE_P50">
+        <item name="colorPrimaryDark">#F3E5F5</item>
+    </style>
+
+    <style name="AccentColor_PURPLE_P50">
+        <item name="colorAccent">#F3E5F5</item>
+    </style>
+
+    <style name="PrimaryColor_TEAL_A400">
+        <item name="colorPrimary">#1DE9B6</item>
+    </style>
+
+    <style name="PrimaryDarkColor_TEAL_A400">
+        <item name="colorPrimaryDark">#1DE9B6</item>
+    </style>
+
+    <style name="AccentColor_TEAL_A400">
+        <item name="colorAccent">#1DE9B6</item>
+    </style>
+
+    <style name="PrimaryColor_TEAL_P200">
+        <item name="colorPrimary">#80CBC4</item>
+    </style>
+
+    <style name="PrimaryDarkColor_TEAL_P200">
+        <item name="colorPrimaryDark">#80CBC4</item>
+    </style>
+
+    <style name="AccentColor_TEAL_P200">
+        <item name="colorAccent">#80CBC4</item>
+    </style>
+
+    <style name="PrimaryColor_TEAL_P300">
+        <item name="colorPrimary">#4DB6AC</item>
+    </style>
+
+    <style name="PrimaryDarkColor_TEAL_P300">
+        <item name="colorPrimaryDark">#4DB6AC</item>
+    </style>
+
+    <style name="AccentColor_TEAL_P300">
+        <item name="colorAccent">#4DB6AC</item>
+    </style>
+
+    <style name="PrimaryColor_TEAL_A700">
+        <item name="colorPrimary">#00BFA5</item>
+    </style>
+
+    <style name="PrimaryDarkColor_TEAL_A700">
+        <item name="colorPrimaryDark">#00BFA5</item>
+    </style>
+
+    <style name="AccentColor_TEAL_A700">
+        <item name="colorAccent">#00BFA5</item>
+    </style>
+
+    <style name="PrimaryColor_TEAL_P100">
+        <item name="colorPrimary">#B2DFDB</item>
+    </style>
+
+    <style name="PrimaryDarkColor_TEAL_P100">
+        <item name="colorPrimaryDark">#B2DFDB</item>
+    </style>
+
+    <style name="AccentColor_TEAL_P100">
+        <item name="colorAccent">#B2DFDB</item>
+    </style>
+
+    <style name="PrimaryColor_TEAL_P500">
+        <item name="colorPrimary">#009688</item>
+    </style>
+
+    <style name="PrimaryDarkColor_TEAL_P500">
+        <item name="colorPrimaryDark">#009688</item>
+    </style>
+
+    <style name="AccentColor_TEAL_P500">
+        <item name="colorAccent">#009688</item>
+    </style>
+
+    <style name="PrimaryColor_TEAL_A100">
+        <item name="colorPrimary">#A7FFEB</item>
+    </style>
+
+    <style name="PrimaryDarkColor_TEAL_A100">
+        <item name="colorPrimaryDark">#A7FFEB</item>
+    </style>
+
+    <style name="AccentColor_TEAL_A100">
+        <item name="colorAccent">#A7FFEB</item>
+    </style>
+
+    <style name="PrimaryColor_TEAL_P400">
+        <item name="colorPrimary">#26A69A</item>
+    </style>
+
+    <style name="PrimaryDarkColor_TEAL_P400">
+        <item name="colorPrimaryDark">#26A69A</item>
+    </style>
+
+    <style name="AccentColor_TEAL_P400">
+        <item name="colorAccent">#26A69A</item>
+    </style>
+
+    <style name="PrimaryColor_TEAL_P600">
+        <item name="colorPrimary">#00897B</item>
+    </style>
+
+    <style name="PrimaryDarkColor_TEAL_P600">
+        <item name="colorPrimaryDark">#00897B</item>
+    </style>
+
+    <style name="AccentColor_TEAL_P600">
+        <item name="colorAccent">#00897B</item>
+    </style>
+
+    <style name="PrimaryColor_TEAL_A200">
+        <item name="colorPrimary">#64FFDA</item>
+    </style>
+
+    <style name="PrimaryDarkColor_TEAL_A200">
+        <item name="colorPrimaryDark">#64FFDA</item>
+    </style>
+
+    <style name="AccentColor_TEAL_A200">
+        <item name="colorAccent">#64FFDA</item>
+    </style>
+
+    <style name="PrimaryColor_TEAL_P700">
+        <item name="colorPrimary">#00796B</item>
+    </style>
+
+    <style name="PrimaryDarkColor_TEAL_P700">
+        <item name="colorPrimaryDark">#00796B</item>
+    </style>
+
+    <style name="AccentColor_TEAL_P700">
+        <item name="colorAccent">#00796B</item>
+    </style>
+
+    <style name="PrimaryColor_TEAL_P800">
+        <item name="colorPrimary">#00695C</item>
+    </style>
+
+    <style name="PrimaryDarkColor_TEAL_P800">
+        <item name="colorPrimaryDark">#00695C</item>
+    </style>
+
+    <style name="AccentColor_TEAL_P800">
+        <item name="colorAccent">#00695C</item>
+    </style>
+
+    <style name="PrimaryColor_TEAL_P900">
+        <item name="colorPrimary">#004D40</item>
+    </style>
+
+    <style name="PrimaryDarkColor_TEAL_P900">
+        <item name="colorPrimaryDark">#004D40</item>
+    </style>
+
+    <style name="AccentColor_TEAL_P900">
+        <item name="colorAccent">#004D40</item>
+    </style>
+
+    <style name="PrimaryColor_TEAL_P50">
+        <item name="colorPrimary">#E0F2F1</item>
+    </style>
+
+    <style name="PrimaryDarkColor_TEAL_P50">
+        <item name="colorPrimaryDark">#E0F2F1</item>
+    </style>
+
+    <style name="AccentColor_TEAL_P50">
+        <item name="colorAccent">#E0F2F1</item>
+    </style>
+
+    <style name="PrimaryColor_GREEN_A400">
+        <item name="colorPrimary">#00E676</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREEN_A400">
+        <item name="colorPrimaryDark">#00E676</item>
+    </style>
+
+    <style name="AccentColor_GREEN_A400">
+        <item name="colorAccent">#00E676</item>
+    </style>
+
+    <style name="PrimaryColor_GREEN_P200">
+        <item name="colorPrimary">#A5D6A7</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREEN_P200">
+        <item name="colorPrimaryDark">#A5D6A7</item>
+    </style>
+
+    <style name="AccentColor_GREEN_P200">
+        <item name="colorAccent">#A5D6A7</item>
+    </style>
+
+    <style name="PrimaryColor_GREEN_P300">
+        <item name="colorPrimary">#81C784</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREEN_P300">
+        <item name="colorPrimaryDark">#81C784</item>
+    </style>
+
+    <style name="AccentColor_GREEN_P300">
+        <item name="colorAccent">#81C784</item>
+    </style>
+
+    <style name="PrimaryColor_GREEN_A700">
+        <item name="colorPrimary">#00C853</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREEN_A700">
+        <item name="colorPrimaryDark">#00C853</item>
+    </style>
+
+    <style name="AccentColor_GREEN_A700">
+        <item name="colorAccent">#00C853</item>
+    </style>
+
+    <style name="PrimaryColor_GREEN_P100">
+        <item name="colorPrimary">#C8E6C9</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREEN_P100">
+        <item name="colorPrimaryDark">#C8E6C9</item>
+    </style>
+
+    <style name="AccentColor_GREEN_P100">
+        <item name="colorAccent">#C8E6C9</item>
+    </style>
+
+    <style name="PrimaryColor_GREEN_P500">
+        <item name="colorPrimary">#4CAF50</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREEN_P500">
+        <item name="colorPrimaryDark">#4CAF50</item>
+    </style>
+
+    <style name="AccentColor_GREEN_P500">
+        <item name="colorAccent">#4CAF50</item>
+    </style>
+
+    <style name="PrimaryColor_GREEN_A100">
+        <item name="colorPrimary">#B9F6CA</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREEN_A100">
+        <item name="colorPrimaryDark">#B9F6CA</item>
+    </style>
+
+    <style name="AccentColor_GREEN_A100">
+        <item name="colorAccent">#B9F6CA</item>
+    </style>
+
+    <style name="PrimaryColor_GREEN_P400">
+        <item name="colorPrimary">#66BB6A</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREEN_P400">
+        <item name="colorPrimaryDark">#66BB6A</item>
+    </style>
+
+    <style name="AccentColor_GREEN_P400">
+        <item name="colorAccent">#66BB6A</item>
+    </style>
+
+    <style name="PrimaryColor_GREEN_P600">
+        <item name="colorPrimary">#43A047</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREEN_P600">
+        <item name="colorPrimaryDark">#43A047</item>
+    </style>
+
+    <style name="AccentColor_GREEN_P600">
+        <item name="colorAccent">#43A047</item>
+    </style>
+
+    <style name="PrimaryColor_GREEN_A200">
+        <item name="colorPrimary">#69F0AE</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREEN_A200">
+        <item name="colorPrimaryDark">#69F0AE</item>
+    </style>
+
+    <style name="AccentColor_GREEN_A200">
+        <item name="colorAccent">#69F0AE</item>
+    </style>
+
+    <style name="PrimaryColor_GREEN_P700">
+        <item name="colorPrimary">#388E3C</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREEN_P700">
+        <item name="colorPrimaryDark">#388E3C</item>
+    </style>
+
+    <style name="AccentColor_GREEN_P700">
+        <item name="colorAccent">#388E3C</item>
+    </style>
+
+    <style name="PrimaryColor_GREEN_P800">
+        <item name="colorPrimary">#2E7D32</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREEN_P800">
+        <item name="colorPrimaryDark">#2E7D32</item>
+    </style>
+
+    <style name="AccentColor_GREEN_P800">
+        <item name="colorAccent">#2E7D32</item>
+    </style>
+
+    <style name="PrimaryColor_GREEN_P900">
+        <item name="colorPrimary">#1B5E20</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREEN_P900">
+        <item name="colorPrimaryDark">#1B5E20</item>
+    </style>
+
+    <style name="AccentColor_GREEN_P900">
+        <item name="colorAccent">#1B5E20</item>
+    </style>
+
+    <style name="PrimaryColor_GREEN_P50">
+        <item name="colorPrimary">#E8F5E9</item>
+    </style>
+
+    <style name="PrimaryDarkColor_GREEN_P50">
+        <item name="colorPrimaryDark">#E8F5E9</item>
+    </style>
+
+    <style name="AccentColor_GREEN_P50">
+        <item name="colorAccent">#E8F5E9</item>
+    </style>
+
+    <style name="PrimaryColor_BLACK">
+        <item name="colorPrimary">#000000</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLACK">
+        <item name="colorPrimaryDark">#000000</item>
+    </style>
+
+    <style name="AccentColor_BLACK">
+        <item name="colorAccent">#000000</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_BLUE_A400">
+        <item name="colorPrimary">#00B0FF</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_BLUE_A400">
+        <item name="colorPrimaryDark">#00B0FF</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_BLUE_A400">
+        <item name="colorAccent">#00B0FF</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_BLUE_P200">
+        <item name="colorPrimary">#81D4FA</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_BLUE_P200">
+        <item name="colorPrimaryDark">#81D4FA</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_BLUE_P200">
+        <item name="colorAccent">#81D4FA</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_BLUE_P300">
+        <item name="colorPrimary">#4FC3F7</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_BLUE_P300">
+        <item name="colorPrimaryDark">#4FC3F7</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_BLUE_P300">
+        <item name="colorAccent">#4FC3F7</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_BLUE_A700">
+        <item name="colorPrimary">#0091EA</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_BLUE_A700">
+        <item name="colorPrimaryDark">#0091EA</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_BLUE_A700">
+        <item name="colorAccent">#0091EA</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_BLUE_P100">
+        <item name="colorPrimary">#B3E5FC</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_BLUE_P100">
+        <item name="colorPrimaryDark">#B3E5FC</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_BLUE_P100">
+        <item name="colorAccent">#B3E5FC</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_BLUE_P500">
+        <item name="colorPrimary">#03A9F4</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_BLUE_P500">
+        <item name="colorPrimaryDark">#03A9F4</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_BLUE_P500">
+        <item name="colorAccent">#03A9F4</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_BLUE_A100">
+        <item name="colorPrimary">#80D8FF</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_BLUE_A100">
+        <item name="colorPrimaryDark">#80D8FF</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_BLUE_A100">
+        <item name="colorAccent">#80D8FF</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_BLUE_P400">
+        <item name="colorPrimary">#29B6F6</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_BLUE_P400">
+        <item name="colorPrimaryDark">#29B6F6</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_BLUE_P400">
+        <item name="colorAccent">#29B6F6</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_BLUE_P600">
+        <item name="colorPrimary">#039BE5</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_BLUE_P600">
+        <item name="colorPrimaryDark">#039BE5</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_BLUE_P600">
+        <item name="colorAccent">#039BE5</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_BLUE_A200">
+        <item name="colorPrimary">#40C4FF</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_BLUE_A200">
+        <item name="colorPrimaryDark">#40C4FF</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_BLUE_A200">
+        <item name="colorAccent">#40C4FF</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_BLUE_P700">
+        <item name="colorPrimary">#0288D1</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_BLUE_P700">
+        <item name="colorPrimaryDark">#0288D1</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_BLUE_P700">
+        <item name="colorAccent">#0288D1</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_BLUE_P800">
+        <item name="colorPrimary">#0277BD</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_BLUE_P800">
+        <item name="colorPrimaryDark">#0277BD</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_BLUE_P800">
+        <item name="colorAccent">#0277BD</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_BLUE_P900">
+        <item name="colorPrimary">#01579B</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_BLUE_P900">
+        <item name="colorPrimaryDark">#01579B</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_BLUE_P900">
+        <item name="colorAccent">#01579B</item>
+    </style>
+
+    <style name="PrimaryColor_LIGHT_BLUE_P50">
+        <item name="colorPrimary">#E1F5FE</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIGHT_BLUE_P50">
+        <item name="colorPrimaryDark">#E1F5FE</item>
+    </style>
+
+    <style name="AccentColor_LIGHT_BLUE_P50">
+        <item name="colorAccent">#E1F5FE</item>
+    </style>
+
+    <style name="PrimaryColor_AMBER_A400">
+        <item name="colorPrimary">#FFC400</item>
+    </style>
+
+    <style name="PrimaryDarkColor_AMBER_A400">
+        <item name="colorPrimaryDark">#FFC400</item>
+    </style>
+
+    <style name="AccentColor_AMBER_A400">
+        <item name="colorAccent">#FFC400</item>
+    </style>
+
+    <style name="PrimaryColor_AMBER_P200">
+        <item name="colorPrimary">#FFE082</item>
+    </style>
+
+    <style name="PrimaryDarkColor_AMBER_P200">
+        <item name="colorPrimaryDark">#FFE082</item>
+    </style>
+
+    <style name="AccentColor_AMBER_P200">
+        <item name="colorAccent">#FFE082</item>
+    </style>
+
+    <style name="PrimaryColor_AMBER_P300">
+        <item name="colorPrimary">#FFD54F</item>
+    </style>
+
+    <style name="PrimaryDarkColor_AMBER_P300">
+        <item name="colorPrimaryDark">#FFD54F</item>
+    </style>
+
+    <style name="AccentColor_AMBER_P300">
+        <item name="colorAccent">#FFD54F</item>
+    </style>
+
+    <style name="PrimaryColor_AMBER_A700">
+        <item name="colorPrimary">#FFAB00</item>
+    </style>
+
+    <style name="PrimaryDarkColor_AMBER_A700">
+        <item name="colorPrimaryDark">#FFAB00</item>
+    </style>
+
+    <style name="AccentColor_AMBER_A700">
+        <item name="colorAccent">#FFAB00</item>
+    </style>
+
+    <style name="PrimaryColor_AMBER_P100">
+        <item name="colorPrimary">#FFECB3</item>
+    </style>
+
+    <style name="PrimaryDarkColor_AMBER_P100">
+        <item name="colorPrimaryDark">#FFECB3</item>
+    </style>
+
+    <style name="AccentColor_AMBER_P100">
+        <item name="colorAccent">#FFECB3</item>
+    </style>
+
+    <style name="PrimaryColor_AMBER_P500">
+        <item name="colorPrimary">#FFC107</item>
+    </style>
+
+    <style name="PrimaryDarkColor_AMBER_P500">
+        <item name="colorPrimaryDark">#FFC107</item>
+    </style>
+
+    <style name="AccentColor_AMBER_P500">
+        <item name="colorAccent">#FFC107</item>
+    </style>
+
+    <style name="PrimaryColor_AMBER_A100">
+        <item name="colorPrimary">#FFE57F</item>
+    </style>
+
+    <style name="PrimaryDarkColor_AMBER_A100">
+        <item name="colorPrimaryDark">#FFE57F</item>
+    </style>
+
+    <style name="AccentColor_AMBER_A100">
+        <item name="colorAccent">#FFE57F</item>
+    </style>
+
+    <style name="PrimaryColor_AMBER_P400">
+        <item name="colorPrimary">#FFCA28</item>
+    </style>
+
+    <style name="PrimaryDarkColor_AMBER_P400">
+        <item name="colorPrimaryDark">#FFCA28</item>
+    </style>
+
+    <style name="AccentColor_AMBER_P400">
+        <item name="colorAccent">#FFCA28</item>
+    </style>
+
+    <style name="PrimaryColor_AMBER_P600">
+        <item name="colorPrimary">#FFB300</item>
+    </style>
+
+    <style name="PrimaryDarkColor_AMBER_P600">
+        <item name="colorPrimaryDark">#FFB300</item>
+    </style>
+
+    <style name="AccentColor_AMBER_P600">
+        <item name="colorAccent">#FFB300</item>
+    </style>
+
+    <style name="PrimaryColor_AMBER_A200">
+        <item name="colorPrimary">#FFD740</item>
+    </style>
+
+    <style name="PrimaryDarkColor_AMBER_A200">
+        <item name="colorPrimaryDark">#FFD740</item>
+    </style>
+
+    <style name="AccentColor_AMBER_A200">
+        <item name="colorAccent">#FFD740</item>
+    </style>
+
+    <style name="PrimaryColor_AMBER_P700">
+        <item name="colorPrimary">#FFA000</item>
+    </style>
+
+    <style name="PrimaryDarkColor_AMBER_P700">
+        <item name="colorPrimaryDark">#FFA000</item>
+    </style>
+
+    <style name="AccentColor_AMBER_P700">
+        <item name="colorAccent">#FFA000</item>
+    </style>
+
+    <style name="PrimaryColor_AMBER_P800">
+        <item name="colorPrimary">#FF8F00</item>
+    </style>
+
+    <style name="PrimaryDarkColor_AMBER_P800">
+        <item name="colorPrimaryDark">#FF8F00</item>
+    </style>
+
+    <style name="AccentColor_AMBER_P800">
+        <item name="colorAccent">#FF8F00</item>
+    </style>
+
+    <style name="PrimaryColor_AMBER_P900">
+        <item name="colorPrimary">#FF6F00</item>
+    </style>
+
+    <style name="PrimaryDarkColor_AMBER_P900">
+        <item name="colorPrimaryDark">#FF6F00</item>
+    </style>
+
+    <style name="AccentColor_AMBER_P900">
+        <item name="colorAccent">#FF6F00</item>
+    </style>
+
+    <style name="PrimaryColor_AMBER_P50">
+        <item name="colorPrimary">#FFF8E1</item>
+    </style>
+
+    <style name="PrimaryDarkColor_AMBER_P50">
+        <item name="colorPrimaryDark">#FFF8E1</item>
+    </style>
+
+    <style name="AccentColor_AMBER_P50">
+        <item name="colorAccent">#FFF8E1</item>
+    </style>
+
+    <style name="PrimaryColor_LIME_A400">
+        <item name="colorPrimary">#C6FF00</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIME_A400">
+        <item name="colorPrimaryDark">#C6FF00</item>
+    </style>
+
+    <style name="AccentColor_LIME_A400">
+        <item name="colorAccent">#C6FF00</item>
+    </style>
+
+    <style name="PrimaryColor_LIME_P200">
+        <item name="colorPrimary">#E6EE9C</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIME_P200">
+        <item name="colorPrimaryDark">#E6EE9C</item>
+    </style>
+
+    <style name="AccentColor_LIME_P200">
+        <item name="colorAccent">#E6EE9C</item>
+    </style>
+
+    <style name="PrimaryColor_LIME_P300">
+        <item name="colorPrimary">#DCE775</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIME_P300">
+        <item name="colorPrimaryDark">#DCE775</item>
+    </style>
+
+    <style name="AccentColor_LIME_P300">
+        <item name="colorAccent">#DCE775</item>
+    </style>
+
+    <style name="PrimaryColor_LIME_A700">
+        <item name="colorPrimary">#AEEA00</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIME_A700">
+        <item name="colorPrimaryDark">#AEEA00</item>
+    </style>
+
+    <style name="AccentColor_LIME_A700">
+        <item name="colorAccent">#AEEA00</item>
+    </style>
+
+    <style name="PrimaryColor_LIME_P100">
+        <item name="colorPrimary">#F0F4C3</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIME_P100">
+        <item name="colorPrimaryDark">#F0F4C3</item>
+    </style>
+
+    <style name="AccentColor_LIME_P100">
+        <item name="colorAccent">#F0F4C3</item>
+    </style>
+
+    <style name="PrimaryColor_LIME_P500">
+        <item name="colorPrimary">#CDDC39</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIME_P500">
+        <item name="colorPrimaryDark">#CDDC39</item>
+    </style>
+
+    <style name="AccentColor_LIME_P500">
+        <item name="colorAccent">#CDDC39</item>
+    </style>
+
+    <style name="PrimaryColor_LIME_A100">
+        <item name="colorPrimary">#F4FF81</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIME_A100">
+        <item name="colorPrimaryDark">#F4FF81</item>
+    </style>
+
+    <style name="AccentColor_LIME_A100">
+        <item name="colorAccent">#F4FF81</item>
+    </style>
+
+    <style name="PrimaryColor_LIME_P400">
+        <item name="colorPrimary">#D4E157</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIME_P400">
+        <item name="colorPrimaryDark">#D4E157</item>
+    </style>
+
+    <style name="AccentColor_LIME_P400">
+        <item name="colorAccent">#D4E157</item>
+    </style>
+
+    <style name="PrimaryColor_LIME_P600">
+        <item name="colorPrimary">#C0CA33</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIME_P600">
+        <item name="colorPrimaryDark">#C0CA33</item>
+    </style>
+
+    <style name="AccentColor_LIME_P600">
+        <item name="colorAccent">#C0CA33</item>
+    </style>
+
+    <style name="PrimaryColor_LIME_A200">
+        <item name="colorPrimary">#EEFF41</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIME_A200">
+        <item name="colorPrimaryDark">#EEFF41</item>
+    </style>
+
+    <style name="AccentColor_LIME_A200">
+        <item name="colorAccent">#EEFF41</item>
+    </style>
+
+    <style name="PrimaryColor_LIME_P700">
+        <item name="colorPrimary">#AFB42B</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIME_P700">
+        <item name="colorPrimaryDark">#AFB42B</item>
+    </style>
+
+    <style name="AccentColor_LIME_P700">
+        <item name="colorAccent">#AFB42B</item>
+    </style>
+
+    <style name="PrimaryColor_LIME_P800">
+        <item name="colorPrimary">#9E9D24</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIME_P800">
+        <item name="colorPrimaryDark">#9E9D24</item>
+    </style>
+
+    <style name="AccentColor_LIME_P800">
+        <item name="colorAccent">#9E9D24</item>
+    </style>
+
+    <style name="PrimaryColor_LIME_P900">
+        <item name="colorPrimary">#827717</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIME_P900">
+        <item name="colorPrimaryDark">#827717</item>
+    </style>
+
+    <style name="AccentColor_LIME_P900">
+        <item name="colorAccent">#827717</item>
+    </style>
+
+    <style name="PrimaryColor_LIME_P50">
+        <item name="colorPrimary">#F9FBE7</item>
+    </style>
+
+    <style name="PrimaryDarkColor_LIME_P50">
+        <item name="colorPrimaryDark">#F9FBE7</item>
+    </style>
+
+    <style name="AccentColor_LIME_P50">
+        <item name="colorAccent">#F9FBE7</item>
+    </style>
+
+    <style name="PrimaryColor_WHITE">
+        <item name="colorPrimary">#FFFFFF</item>
+    </style>
+
+    <style name="PrimaryDarkColor_WHITE">
+        <item name="colorPrimaryDark">#FFFFFF</item>
+    </style>
+
+    <style name="AccentColor_WHITE">
+        <item name="colorAccent">#FFFFFF</item>
+    </style>
+
+    <style name="PrimaryColor_YELLOW_A400">
+        <item name="colorPrimary">#FFEA00</item>
+    </style>
+
+    <style name="PrimaryDarkColor_YELLOW_A400">
+        <item name="colorPrimaryDark">#FFEA00</item>
+    </style>
+
+    <style name="AccentColor_YELLOW_A400">
+        <item name="colorAccent">#FFEA00</item>
+    </style>
+
+    <style name="PrimaryColor_YELLOW_P200">
+        <item name="colorPrimary">#FFF59D</item>
+    </style>
+
+    <style name="PrimaryDarkColor_YELLOW_P200">
+        <item name="colorPrimaryDark">#FFF59D</item>
+    </style>
+
+    <style name="AccentColor_YELLOW_P200">
+        <item name="colorAccent">#FFF59D</item>
+    </style>
+
+    <style name="PrimaryColor_YELLOW_P300">
+        <item name="colorPrimary">#FFF176</item>
+    </style>
+
+    <style name="PrimaryDarkColor_YELLOW_P300">
+        <item name="colorPrimaryDark">#FFF176</item>
+    </style>
+
+    <style name="AccentColor_YELLOW_P300">
+        <item name="colorAccent">#FFF176</item>
+    </style>
+
+    <style name="PrimaryColor_YELLOW_A700">
+        <item name="colorPrimary">#FFD600</item>
+    </style>
+
+    <style name="PrimaryDarkColor_YELLOW_A700">
+        <item name="colorPrimaryDark">#FFD600</item>
+    </style>
+
+    <style name="AccentColor_YELLOW_A700">
+        <item name="colorAccent">#FFD600</item>
+    </style>
+
+    <style name="PrimaryColor_YELLOW_P100">
+        <item name="colorPrimary">#FFF9C4</item>
+    </style>
+
+    <style name="PrimaryDarkColor_YELLOW_P100">
+        <item name="colorPrimaryDark">#FFF9C4</item>
+    </style>
+
+    <style name="AccentColor_YELLOW_P100">
+        <item name="colorAccent">#FFF9C4</item>
+    </style>
+
+    <style name="PrimaryColor_YELLOW_P500">
+        <item name="colorPrimary">#FFEB3B</item>
+    </style>
+
+    <style name="PrimaryDarkColor_YELLOW_P500">
+        <item name="colorPrimaryDark">#FFEB3B</item>
+    </style>
+
+    <style name="AccentColor_YELLOW_P500">
+        <item name="colorAccent">#FFEB3B</item>
+    </style>
+
+    <style name="PrimaryColor_YELLOW_A100">
+        <item name="colorPrimary">#FFFF8D</item>
+    </style>
+
+    <style name="PrimaryDarkColor_YELLOW_A100">
+        <item name="colorPrimaryDark">#FFFF8D</item>
+    </style>
+
+    <style name="AccentColor_YELLOW_A100">
+        <item name="colorAccent">#FFFF8D</item>
+    </style>
+
+    <style name="PrimaryColor_YELLOW_P400">
+        <item name="colorPrimary">#FFEE58</item>
+    </style>
+
+    <style name="PrimaryDarkColor_YELLOW_P400">
+        <item name="colorPrimaryDark">#FFEE58</item>
+    </style>
+
+    <style name="AccentColor_YELLOW_P400">
+        <item name="colorAccent">#FFEE58</item>
+    </style>
+
+    <style name="PrimaryColor_YELLOW_P600">
+        <item name="colorPrimary">#FDD835</item>
+    </style>
+
+    <style name="PrimaryDarkColor_YELLOW_P600">
+        <item name="colorPrimaryDark">#FDD835</item>
+    </style>
+
+    <style name="AccentColor_YELLOW_P600">
+        <item name="colorAccent">#FDD835</item>
+    </style>
+
+    <style name="PrimaryColor_YELLOW_A200">
+        <item name="colorPrimary">#FFFF00</item>
+    </style>
+
+    <style name="PrimaryDarkColor_YELLOW_A200">
+        <item name="colorPrimaryDark">#FFFF00</item>
+    </style>
+
+    <style name="AccentColor_YELLOW_A200">
+        <item name="colorAccent">#FFFF00</item>
+    </style>
+
+    <style name="PrimaryColor_YELLOW_P700">
+        <item name="colorPrimary">#FBC02D</item>
+    </style>
+
+    <style name="PrimaryDarkColor_YELLOW_P700">
+        <item name="colorPrimaryDark">#FBC02D</item>
+    </style>
+
+    <style name="AccentColor_YELLOW_P700">
+        <item name="colorAccent">#FBC02D</item>
+    </style>
+
+    <style name="PrimaryColor_YELLOW_P800">
+        <item name="colorPrimary">#F9A825</item>
+    </style>
+
+    <style name="PrimaryDarkColor_YELLOW_P800">
+        <item name="colorPrimaryDark">#F9A825</item>
+    </style>
+
+    <style name="AccentColor_YELLOW_P800">
+        <item name="colorAccent">#F9A825</item>
+    </style>
+
+    <style name="PrimaryColor_YELLOW_P900">
+        <item name="colorPrimary">#F57F17</item>
+    </style>
+
+    <style name="PrimaryDarkColor_YELLOW_P900">
+        <item name="colorPrimaryDark">#F57F17</item>
+    </style>
+
+    <style name="AccentColor_YELLOW_P900">
+        <item name="colorAccent">#F57F17</item>
+    </style>
+
+    <style name="PrimaryColor_YELLOW_P50">
+        <item name="colorPrimary">#FFFDE7</item>
+    </style>
+
+    <style name="PrimaryDarkColor_YELLOW_P50">
+        <item name="colorPrimaryDark">#FFFDE7</item>
+    </style>
+
+    <style name="AccentColor_YELLOW_P50">
+        <item name="colorAccent">#FFFDE7</item>
+    </style>
+
+    <style name="PrimaryColor_RED_A400">
+        <item name="colorPrimary">#FF1744</item>
+    </style>
+
+    <style name="PrimaryDarkColor_RED_A400">
+        <item name="colorPrimaryDark">#FF1744</item>
+    </style>
+
+    <style name="AccentColor_RED_A400">
+        <item name="colorAccent">#FF1744</item>
+    </style>
+
+    <style name="PrimaryColor_RED_P200">
+        <item name="colorPrimary">#EF9A9A</item>
+    </style>
+
+    <style name="PrimaryDarkColor_RED_P200">
+        <item name="colorPrimaryDark">#EF9A9A</item>
+    </style>
+
+    <style name="AccentColor_RED_P200">
+        <item name="colorAccent">#EF9A9A</item>
+    </style>
+
+    <style name="PrimaryColor_RED_P300">
+        <item name="colorPrimary">#E57373</item>
+    </style>
+
+    <style name="PrimaryDarkColor_RED_P300">
+        <item name="colorPrimaryDark">#E57373</item>
+    </style>
+
+    <style name="AccentColor_RED_P300">
+        <item name="colorAccent">#E57373</item>
+    </style>
+
+    <style name="PrimaryColor_RED_A700">
+        <item name="colorPrimary">#D50000</item>
+    </style>
+
+    <style name="PrimaryDarkColor_RED_A700">
+        <item name="colorPrimaryDark">#D50000</item>
+    </style>
+
+    <style name="AccentColor_RED_A700">
+        <item name="colorAccent">#D50000</item>
+    </style>
+
+    <style name="PrimaryColor_RED_P100">
+        <item name="colorPrimary">#FFCDD2</item>
+    </style>
+
+    <style name="PrimaryDarkColor_RED_P100">
+        <item name="colorPrimaryDark">#FFCDD2</item>
+    </style>
+
+    <style name="AccentColor_RED_P100">
+        <item name="colorAccent">#FFCDD2</item>
+    </style>
+
+    <style name="PrimaryColor_RED_P500">
+        <item name="colorPrimary">#F44336</item>
+    </style>
+
+    <style name="PrimaryDarkColor_RED_P500">
+        <item name="colorPrimaryDark">#F44336</item>
+    </style>
+
+    <style name="AccentColor_RED_P500">
+        <item name="colorAccent">#F44336</item>
+    </style>
+
+    <style name="PrimaryColor_RED_A100">
+        <item name="colorPrimary">#FF8A80</item>
+    </style>
+
+    <style name="PrimaryDarkColor_RED_A100">
+        <item name="colorPrimaryDark">#FF8A80</item>
+    </style>
+
+    <style name="AccentColor_RED_A100">
+        <item name="colorAccent">#FF8A80</item>
+    </style>
+
+    <style name="PrimaryColor_RED_P400">
+        <item name="colorPrimary">#EF5350</item>
+    </style>
+
+    <style name="PrimaryDarkColor_RED_P400">
+        <item name="colorPrimaryDark">#EF5350</item>
+    </style>
+
+    <style name="AccentColor_RED_P400">
+        <item name="colorAccent">#EF5350</item>
+    </style>
+
+    <style name="PrimaryColor_RED_P600">
+        <item name="colorPrimary">#E53935</item>
+    </style>
+
+    <style name="PrimaryDarkColor_RED_P600">
+        <item name="colorPrimaryDark">#E53935</item>
+    </style>
+
+    <style name="AccentColor_RED_P600">
+        <item name="colorAccent">#E53935</item>
+    </style>
+
+    <style name="PrimaryColor_RED_A200">
+        <item name="colorPrimary">#FF5252</item>
+    </style>
+
+    <style name="PrimaryDarkColor_RED_A200">
+        <item name="colorPrimaryDark">#FF5252</item>
+    </style>
+
+    <style name="AccentColor_RED_A200">
+        <item name="colorAccent">#FF5252</item>
+    </style>
+
+    <style name="PrimaryColor_RED_P700">
+        <item name="colorPrimary">#D32F2F</item>
+    </style>
+
+    <style name="PrimaryDarkColor_RED_P700">
+        <item name="colorPrimaryDark">#D32F2F</item>
+    </style>
+
+    <style name="AccentColor_RED_P700">
+        <item name="colorAccent">#D32F2F</item>
+    </style>
+
+    <style name="PrimaryColor_RED_P800">
+        <item name="colorPrimary">#C62828</item>
+    </style>
+
+    <style name="PrimaryDarkColor_RED_P800">
+        <item name="colorPrimaryDark">#C62828</item>
+    </style>
+
+    <style name="AccentColor_RED_P800">
+        <item name="colorAccent">#C62828</item>
+    </style>
+
+    <style name="PrimaryColor_RED_P900">
+        <item name="colorPrimary">#B71C1C</item>
+    </style>
+
+    <style name="PrimaryDarkColor_RED_P900">
+        <item name="colorPrimaryDark">#B71C1C</item>
+    </style>
+
+    <style name="AccentColor_RED_P900">
+        <item name="colorAccent">#B71C1C</item>
+    </style>
+
+    <style name="PrimaryColor_RED_P50">
+        <item name="colorPrimary">#FFEBEE</item>
+    </style>
+
+    <style name="PrimaryDarkColor_RED_P50">
+        <item name="colorPrimaryDark">#FFEBEE</item>
+    </style>
+
+    <style name="AccentColor_RED_P50">
+        <item name="colorAccent">#FFEBEE</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_A400">
+        <item name="colorPrimary">#2979FF</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_A400">
+        <item name="colorPrimaryDark">#2979FF</item>
+    </style>
+
+    <style name="AccentColor_BLUE_A400">
+        <item name="colorAccent">#2979FF</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_P200">
+        <item name="colorPrimary">#90CAF9</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_P200">
+        <item name="colorPrimaryDark">#90CAF9</item>
+    </style>
+
+    <style name="AccentColor_BLUE_P200">
+        <item name="colorAccent">#90CAF9</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_P300">
+        <item name="colorPrimary">#64B5F6</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_P300">
+        <item name="colorPrimaryDark">#64B5F6</item>
+    </style>
+
+    <style name="AccentColor_BLUE_P300">
+        <item name="colorAccent">#64B5F6</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_A700">
+        <item name="colorPrimary">#2962FF</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_A700">
+        <item name="colorPrimaryDark">#2962FF</item>
+    </style>
+
+    <style name="AccentColor_BLUE_A700">
+        <item name="colorAccent">#2962FF</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_P100">
+        <item name="colorPrimary">#BBDEFB</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_P100">
+        <item name="colorPrimaryDark">#BBDEFB</item>
+    </style>
+
+    <style name="AccentColor_BLUE_P100">
+        <item name="colorAccent">#BBDEFB</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_P500">
+        <item name="colorPrimary">#2196F3</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_P500">
+        <item name="colorPrimaryDark">#2196F3</item>
+    </style>
+
+    <style name="AccentColor_BLUE_P500">
+        <item name="colorAccent">#2196F3</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_A100">
+        <item name="colorPrimary">#82B1FF</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_A100">
+        <item name="colorPrimaryDark">#82B1FF</item>
+    </style>
+
+    <style name="AccentColor_BLUE_A100">
+        <item name="colorAccent">#82B1FF</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_P400">
+        <item name="colorPrimary">#42A5F5</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_P400">
+        <item name="colorPrimaryDark">#42A5F5</item>
+    </style>
+
+    <style name="AccentColor_BLUE_P400">
+        <item name="colorAccent">#42A5F5</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_P600">
+        <item name="colorPrimary">#1E88E5</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_P600">
+        <item name="colorPrimaryDark">#1E88E5</item>
+    </style>
+
+    <style name="AccentColor_BLUE_P600">
+        <item name="colorAccent">#1E88E5</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_A200">
+        <item name="colorPrimary">#448AFF</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_A200">
+        <item name="colorPrimaryDark">#448AFF</item>
+    </style>
+
+    <style name="AccentColor_BLUE_A200">
+        <item name="colorAccent">#448AFF</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_P700">
+        <item name="colorPrimary">#1976D2</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_P700">
+        <item name="colorPrimaryDark">#1976D2</item>
+    </style>
+
+    <style name="AccentColor_BLUE_P700">
+        <item name="colorAccent">#1976D2</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_P800">
+        <item name="colorPrimary">#1565C0</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_P800">
+        <item name="colorPrimaryDark">#1565C0</item>
+    </style>
+
+    <style name="AccentColor_BLUE_P800">
+        <item name="colorAccent">#1565C0</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_P900">
+        <item name="colorPrimary">#0D47A1</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_P900">
+        <item name="colorPrimaryDark">#0D47A1</item>
+    </style>
+
+    <style name="AccentColor_BLUE_P900">
+        <item name="colorAccent">#0D47A1</item>
+    </style>
+
+    <style name="PrimaryColor_BLUE_P50">
+        <item name="colorPrimary">#E3F2FD</item>
+    </style>
+
+    <style name="PrimaryDarkColor_BLUE_P50">
+        <item name="colorPrimaryDark">#E3F2FD</item>
+    </style>
+
+    <style name="AccentColor_BLUE_P50">
+        <item name="colorAccent">#E3F2FD</item>
+    </style>
+
+</resources>
